@@ -1,5 +1,5 @@
 # dc_data_engineer_project
-A basic data cleaning process for banking data.
+A basic data cleaning process for banking data at DataCamp.
 
 ![Piggy bank](piggy_bank.jpg)
 
